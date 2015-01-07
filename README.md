@@ -5,3 +5,5 @@
 3. Add a text file without your name but containing an interesting story 
     Name it whatever you like as long as it's different from everyone elses file
 	Colin Durham
+	Mr. Poore
+	
